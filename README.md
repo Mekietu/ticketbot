@@ -1,18 +1,6 @@
-élécharger et extraire le projet
-La personne doit d'abord cloner ou télécharger le dépôt GitHub. Puisqu'il est privé, tu devras lui donner un accès (via GitHub, en l'ajoutant comme collaborateur).
-Si elle clone le dépôt :
-bash
 
 
-git clone <URL_DU_DEPOT>
-
-Remplace <URL_DU_DEPOT> par l'URL de ton dépôt GitHub (par exemple, https://github.com/Mekietu/ticketbot.git).
-
-Si elle télécharge le dépôt :
-
-Clique sur le bouton vert "Code" sur GitHub, puis sur "Download ZIP".
-
-Extrais le fichier ZIP sur son ordinateur (par exemple, dans un dossier comme C:\Users\Utilisateur\Projets\ticketbot).
+Extrais le fichier ZIP sur ton ordinateur (par exemple, dans un dossier comme C:\Users\Utilisateur\Projets\ticketbot).
 
 2. Installer Node.js
    
